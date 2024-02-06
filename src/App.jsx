@@ -10,7 +10,7 @@ import {
   img14TeddyWait,
 } from "./images";
 import shadiSong from "./songs/humari_shadi_me(128k).mp3";
-import Accept from "./components/accept";
+import Accept from "./components/Accept";
 import { Alert } from "flowbite-react";
 
 function App() {
